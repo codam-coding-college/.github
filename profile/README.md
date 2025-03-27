@@ -9,6 +9,6 @@
 	</sub>
 	</br>
 	<sub>
-	Visit our <a href="https://www.codam.nl/en">website</a> to start <a href="https://twitter.com/search?q=%23writeyourfuture&src=hashtag_click">#writeyourfuture</a>
+	Visit our <a href="https://www.codam.nl/en">website</a> to start <i>#writeyourfuture</i>
 	</sub>
 </div>
