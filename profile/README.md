@@ -5,7 +5,7 @@
 
 <div align="center">
 	<sub>
-	Programming education 3-5 yrs.📍 In Amsterdam. No need for qualifications. Tuition-fee covered 100% unconditional.
+	Programming education 2-5 yrs.📍 In Amsterdam. No need for qualifications. Tuition-fee covered 100% unconditional.
 	</sub>
 	</br>
 	<sub>
